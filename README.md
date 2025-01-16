@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there 👋, I'm Huu Bao!
 
-<!--
-**nguyenhuubao20/nguyenhuubao20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer passionate about:
+- 🌟 Open-source contributions
+- 💻 Building innovative solutions
+- 📚 Learning new technologies
 
-Here are some ideas to get you started:
+## 🌐 Connect with me:
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)](https://github.com/nguyenhuubao20)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools:
+- **Languages:** Java, C#, Dart
+- **Frameworks:** Flutter, Spring Boot
+- **Other Tools:** Git
