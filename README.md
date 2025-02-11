@@ -8,14 +8,15 @@
 
 ### 🚀 About Me
 
-```javascript
-const huuBao = {
-    passion: ["Open Source", "Innovation", "Learning"],
-    code: ["Java", "C#", "Dart"],
-    currentFocus: "Building innovative solutions with Spring Boot and Flutter",
-    funFact: "I believe clean code is as important as coffee ☕"
-};
-```
+> 💡 A passionate software developer focused on building innovative solutions
+> 
+> 🌟 Love contributing to open-source projects
+> 
+> 📚 Always eager to learn new technologies
+> 
+> 💻 Currently working with Spring Boot and Flutter
+> 
+> ☕ Clean code enthusiast
 
 ---
 
@@ -64,7 +65,10 @@ const huuBao = {
 
 ---
 
-### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=nguyenhuubao20&color=blueviolet" alt="Profile views counter" />
 
 </div>
